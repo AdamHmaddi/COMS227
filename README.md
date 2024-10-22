@@ -1,2 +1,2 @@
 # COMS227
-COM S 227 Class Assignments
+Coursework for COM S 227 (Object-Oriented Programming) Java Projects
